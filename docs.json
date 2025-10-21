@@ -22,27 +22,24 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Creating Groups",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "groups/create",
+              "groups/contacts"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Updating Contacts",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "group/manual-updates",
+              "group/api-updates"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Templates",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "template/email",
+              "template/sms"
             ]
           }
         ]
