@@ -16,9 +16,9 @@
           {
             "group": "Getting started",
             "pages": [
-              "Introduction",
-              "Quick Setup",
-              "Importing Data"
+              "index",
+              "quicksetup",
+              "importingdata"
             ]
           },
           {
